@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul 3 Legenchenko", "Modul 3 Legenchenko\Modul 3 Legenchenko.csproj", "{A3FFDDB5-E50F-427E-BE5D-D4AD15C8AD3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 1 Legenchenko", "Zadanie 1 Legenchenko\Zadanie 1 Legenchenko.csproj", "{BA45B916-C08D-4290-984C-F071A8314391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 2 Legenchenko", "Zadanie 2 Legenchenko\Zadanie 2 Legenchenko.csproj", "{B986B241-E46F-435C-B9BB-4C04A8927705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 3 Legenchenko", "Zadanie 3 Legenchenko\Zadanie 3 Legenchenko.csproj", "{B3658447-14AA-4DFB-853A-E81AD21782C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 4 Legenchenko", "Zadanie 4 Legenchenko\Zadanie 4 Legenchenko.csproj", "{211D12DF-7440-48F5-AB00-A88215FD1FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 5 Legenchenko", "Zadanie 5 Legenchenko\Zadanie 5 Legenchenko.csproj", "{2C355F98-429A-4D08-B587-E57810CE6284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3FFDDB5-E50F-427E-BE5D-D4AD15C8AD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FFDDB5-E50F-427E-BE5D-D4AD15C8AD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FFDDB5-E50F-427E-BE5D-D4AD15C8AD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FFDDB5-E50F-427E-BE5D-D4AD15C8AD3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA45B916-C08D-4290-984C-F071A8314391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA45B916-C08D-4290-984C-F071A8314391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA45B916-C08D-4290-984C-F071A8314391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA45B916-C08D-4290-984C-F071A8314391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B986B241-E46F-435C-B9BB-4C04A8927705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B986B241-E46F-435C-B9BB-4C04A8927705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B986B241-E46F-435C-B9BB-4C04A8927705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B986B241-E46F-435C-B9BB-4C04A8927705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3658447-14AA-4DFB-853A-E81AD21782C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3658447-14AA-4DFB-853A-E81AD21782C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3658447-14AA-4DFB-853A-E81AD21782C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3658447-14AA-4DFB-853A-E81AD21782C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211D12DF-7440-48F5-AB00-A88215FD1FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211D12DF-7440-48F5-AB00-A88215FD1FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211D12DF-7440-48F5-AB00-A88215FD1FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211D12DF-7440-48F5-AB00-A88215FD1FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C355F98-429A-4D08-B587-E57810CE6284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C355F98-429A-4D08-B587-E57810CE6284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C355F98-429A-4D08-B587-E57810CE6284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C355F98-429A-4D08-B587-E57810CE6284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {775403AC-B144-469B-876A-1ABE4A8D1A7C}
+	EndGlobalSection
+EndGlobal
